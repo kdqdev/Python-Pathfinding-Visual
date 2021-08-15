@@ -100,15 +100,6 @@ To get started, just download the the .zip file of the repository or clone it. A
 
 2. Program doesn't start because the font file "arcadefont.TTF" has to be renamed to "arcadefont.ttf"
 
-<br>
-<br>
-<br>
-
-<!-- CONTACT -->
-## Contact
-
-
-Project Link: [https://github.com/kdqdev/pathfinding-visual](https://github.com/kdqdev/pathfinding-visual)
 
 
 
