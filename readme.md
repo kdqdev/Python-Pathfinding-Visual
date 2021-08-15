@@ -31,9 +31,9 @@ The project was created to help visualize the breadth first search and A* algori
 ## Controls
 
 </br>
-Keyboard
+### Keyboard
 
-> Backspace: Return back to the main menu of the program.
+> Backspace/delete : Return back to the main menu of the program.
 
 > C: Clears/resets the entire board to white.
 
