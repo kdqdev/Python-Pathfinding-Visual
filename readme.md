@@ -49,16 +49,20 @@ Keyboard
 
 ### Colored Squares
 > Blue: starting point
+
 > Purple: ending point
+
 > Grey: path found
+
 > Black: block off path(wall)
+
 > Green: Open Square
+
 > Red: Closed Square
 
 <br>
 </br>
-<br>
-</br>
+
 
 ## Video Example
 
