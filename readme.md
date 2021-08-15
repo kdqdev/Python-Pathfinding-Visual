@@ -31,7 +31,7 @@ The project was created to help visualize the breadth first search and A* algori
 ## Controls
 
 </br>
-### Keyboard
+Keyboard
 
 > Backspace/delete : Return back to the main menu of the program.
 
